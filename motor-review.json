@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rahim Uddin",
+    "image": "https://example.com/users/rahim.jpg",
+    "review": "The Yamaha R15 V4 is an absolute beast! Smooth performance and sporty looks make every ride exciting."
+  },
+  {
+    "name": "Tania Akter",
+    "image": "https://example.com/users/tania.jpg",
+    "review": "I love my Honda CBR 150R. It’s perfect for city rides and very fuel-efficient. Totally worth the price."
+  },
+  {
+    "name": "Shakil Ahmed",
+    "image": "https://example.com/users/shakil.jpg",
+    "review": "The Suzuki Gixxer SF feels solid on the road. Great handling, decent mileage, and eye-catching design."
+  },
+  {
+    "name": "Nasrin Jahan",
+    "image": "https://example.com/users/nasrin.jpg",
+    "review": "TVS Apache RTR 160 4V surprised me with its power and stability. Great for daily commutes and fun rides alike."
+  },
+  {
+    "name": "Farhan Kabir",
+    "image": "https://example.com/users/farhan.jpg",
+    "review": "Yamaha MT-15 is my dream ride. Compact, powerful, and stylish—perfect for street biking!"
+  }
+]
