@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Yamaha R15 V4",
+    "brand": "Yamaha",
+    "description": "A premium sports bike with advanced technology and sleek design.",
+    "price": 420000,
+    "rating": 4.7,
+    "image": "https://example.com/images/yamaha_r15_v4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Honda CBR 150R",
+    "brand": "Honda",
+    "description": "A well-balanced motorcycle offering comfort, speed, and fuel efficiency.",
+    "price": 400000,
+    "rating": 4.5,
+    "image": "https://example.com/images/honda_cbr_150r.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Suzuki Gixxer SF",
+    "brand": "Suzuki",
+    "description": "A faired motorcycle that combines performance and striking looks.",
+    "price": 310000,
+    "rating": 4.4,
+    "image": "https://example.com/images/suzuki_gixxer_sf.jpg"
+  },
+  {
+    "id": 4,
+    "name": "TVS Apache RTR 160 4V",
+    "brand": "TVS",
+    "description": "A high-performance street bike with aggressive styling and excellent handling.",
+    "price": 215000,
+    "rating": 4.3,
+    "image": "https://example.com/images/tvs_apache_rtr_160_4v.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bajaj Pulsar NS160",
+    "brand": "Bajaj",
+    "description": "A sporty commuter bike with a muscular design and robust engine.",
+    "price": 210000,
+    "rating": 4.2,
+    "image": "https://example.com/images/bajaj_pulsar_ns160.jpg"
+  },
+  {
+    "id": 6,
+    "name": "KTM RC 125",
+    "brand": "KTM",
+    "description": "A lightweight supersport motorcycle offering precision and control.",
+    "price": 480000,
+    "rating": 4.6,
+    "image": "https://example.com/images/ktm_rc_125.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Hero Xtreme 160R",
+    "brand": "Hero",
+    "description": "A stylish and lightweight street bike focused on agility and fuel efficiency.",
+    "price": 195000,
+    "rating": 4.1,
+    "image": "https://example.com/images/hero_xtreme_160r.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Yamaha MT-15",
+    "brand": "Yamaha",
+    "description": "A naked streetfighter motorcycle with excellent performance and modern looks.",
+    "price": 430000,
+    "rating": 4.8,
+    "image": "https://example.com/images/yamaha_mt_15.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Honda Hornet 2.0",
+    "brand": "Honda",
+    "description": "A powerful and stylish street bike with premium features and comfort.",
+    "price": 230000,
+    "rating": 4.4,
+    "image": "https://example.com/images/honda_hornet_2_0.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Suzuki Intruder",
+    "brand": "Suzuki",
+    "description": "A cruiser motorcycle designed for comfort and long-distance riding.",
+    "price": 270000,
+    "rating": 4.0,
+    "image": "https://example.com/images/suzuki_intruder.jpg"
+  }
+]
