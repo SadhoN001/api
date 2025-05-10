@@ -24,7 +24,7 @@
     "description": "A faired motorcycle that combines performance and striking looks.",
     "price": 310000,
     "rating": 4.4,
-    "image": "https://example.com/images/suzuki_gixxer_sf.jpg"
+    "image": "https://www.bikebikroy.com/storage/app/files/shares/uploads/2025/02/suzuki-gixxer-sf-v4-dd-202367b956fe9b1e3.webp"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "description": "A high-performance street bike with aggressive styling and excellent handling.",
     "price": 215000,
     "rating": 4.3,
-    "image": "https://example.com/images/tvs_apache_rtr_160_4v.jpg"
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/--single-disc-abs-black-edition1718957076245.jpg?q=80"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "description": "A sporty commuter bike with a muscular design and robust engine.",
     "price": 210000,
     "rating": 4.2,
-    "image": "https://example.com/images/bajaj_pulsar_ns160.jpg"
+    "image": "https://www.financialexpress.com/wp-content/uploads/2017/06/pulsar-ns-160-official.jpg?w=480"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "description": "A lightweight supersport motorcycle offering precision and control.",
     "price": 480000,
     "rating": 4.6,
-    "image": "https://example.com/images/ktm_rc_125.jpg"
+    "image": "https://play-lh.googleusercontent.com/28aNbjWPT31V6IxCDcq7TI7fSxMoyzJ3DlSeDiHBHcWOK0geLv3RzSvdSxhcecxd2K0"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "description": "A stylish and lightweight street bike focused on agility and fuel efficiency.",
     "price": 195000,
     "rating": 4.1,
-    "image": "https://example.com/images/hero_xtreme_160r.jpg"
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/motorcycle/w/r/m/2024-self-xtreme-160r-4v-2024-disc-163-2-booking-for-ex-showroom-original-imahauhkxqtrv8rn.jpeg?q=90&crop=false"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "description": "A naked streetfighter motorcycle with excellent performance and modern looks.",
     "price": 430000,
     "rating": 4.8,
-    "image": "https://example.com/images/yamaha_mt_15.jpg"
+    "image": "https://images.timesdrive.in/photo/msid-151062555,thumbsize-424620,width-560,height-250,false/151062555.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "description": "A powerful and stylish street bike with premium features and comfort.",
     "price": 230000,
     "rating": 4.4,
-    "image": "https://example.com/images/honda_hornet_2_0.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcy7_hj3OcLS2aAhUsV_nDY2sa_BfbCDNag&s"
   },
   {
     "id": 10,
@@ -87,6 +87,6 @@
     "description": "A cruiser motorcycle designed for comfort and long-distance riding.",
     "price": 270000,
     "rating": 4.0,
-    "image": "https://example.com/images/suzuki_intruder.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetZxm7E9RN9f6z1Ht4ddCyBS_1jCcMChcxA&s"
   }
 ]
